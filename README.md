@@ -1,2 +1,2 @@
 # ConstructorJava
-Constructor de Java
+Ejercicio de constructor de Java
